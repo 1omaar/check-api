@@ -1,0 +1,9 @@
+.Nav_Link {
+    color: aliceblue ;
+}
+.navbar-nav {
+    width: 80% !important;
+    display:flex !important;
+    justify-content: space-around;
+   
+}

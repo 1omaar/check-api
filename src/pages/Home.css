@@ -1,0 +1,11 @@
+.home-design {
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 5% 0;
+}
+.title-design {
+    font-size: 150%;
+    margin-bottom: 2%;
+}
